@@ -3,4 +3,4 @@ Following are the Demo Video Links from Youtube demonstrating projects I have cr
 
 [![No Code Ml Using Akkio - Olympics DataSet](https://img.youtube.com/vi/qgsvLFsp0xg/0.jpg)](https://www.youtube.com/watch?v=qgsvLFsp0xg)
 
-[![No Code Ml Using Akkio](https://youtu.be/yDSu6aRgZhU)]
+[![No Code Ml Using Akkio](https://img.youtube.com/vi/yDSu6aRgZhU/0.jpg)](https://www.youtube.com/watch?v=yDSu6aRgZhU) 
