@@ -1,2 +1,2 @@
 # CMPE-255_DataMining
-This repo contains the assignments for CMPE-255 Data Mining
+Please find the Google Colab (.ipynb) files.
