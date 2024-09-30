@@ -13,8 +13,8 @@ Showcase the power of combining chatgpt plugin and visual studio code
 ## GPT-Engineer: 
 GPT Engineer is a tool that uses the power of GPT (Generative Pretrained Transformers)to generate code. GPT-Engineer generates code based on desired preferences. This means that you can guide the tool to generate code in a specific style or format, making it a highly adaptable tool for various coding projects.
 
-##### Install GPT Engineer:
-python -m pip install gpt-engineer
+  ##### Install GPT Engineer:
+  python -m pip install gpt-engineer
 
-##### Set Up GPT Engineer:
-export OPENAI_API_KEY="your API Key"
+  ##### Set Up GPT Engineer:
+  export OPENAI_API_KEY="your API Key"
