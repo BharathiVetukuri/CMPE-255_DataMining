@@ -23,7 +23,7 @@ export OPENAI_API_KEY="your API Key"
 
 I have created a Random Joke Generator App using GPT Engineer in VS Code. Please find below the detailed demo Youtube Video Link:
 
-
+[![Building an Entire Application with single prompt using GPT Engineer and GitHub Co-Pilot Chat](https://img.youtube.com/vi/i5Hq6d_wIcQ/0.jpg)](https://www.youtube.com/watch?v=i5Hq6d_wIcQ)
 
 #### Random Joke Generator App:
 
