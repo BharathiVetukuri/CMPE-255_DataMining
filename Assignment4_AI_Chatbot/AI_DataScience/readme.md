@@ -21,6 +21,10 @@ Consider how the model could be deployed in a real-world setting.
 
 ### References:
 
+Youtube Video:
+
+[![Facial Expression Recognition using Convolutional Neural Networks](https://img.youtube.com/vi/j9G0EpqMCDc/0.jpg)](https://www.youtube.com/watch?v=j9G0EpqMCDc)
+
 Medium Article: [https://medium.com/@soumyabharathi.vetukuri/facial-expression-recognition-using-convolutional-neural-networks-f00139e2a273](https://medium.com/@soumyabharathi.vetukuri/facial-expression-recognition-using-convolutional-neural-networks-f00139e2a273)
 
 ChatGPT Transcript: https://chatgpt.com/share/66f8d4ca-5294-8005-a8f2-68129531ae0d 
