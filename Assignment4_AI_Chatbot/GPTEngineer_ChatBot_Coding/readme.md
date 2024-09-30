@@ -21,7 +21,9 @@ python -m pip install gpt-engineer
 export OPENAI_API_KEY="your API Key"
 ```
 
-I have created a Random Joke Generator App using GPT Engineer in VS Code.
+I have created a Random Joke Generator App using GPT Engineer in VS Code. Please find below the detailed demo Youtube Video Link:
+
+
 
 #### Random Joke Generator App:
 
