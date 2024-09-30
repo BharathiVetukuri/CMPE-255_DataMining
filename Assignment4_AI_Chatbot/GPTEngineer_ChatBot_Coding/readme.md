@@ -42,3 +42,7 @@ pip install -r requirements.txt
 # Run the Flask application
 python app.py
 ```
+
+### URL: http://127.0.0.1:5000/
+
+<img width="1440" alt="Screenshot 2024-09-29 at 11 44 44 PM" src="https://github.com/user-attachments/assets/46f5db75-8d52-4a72-8e8d-8fbb7498770a">
