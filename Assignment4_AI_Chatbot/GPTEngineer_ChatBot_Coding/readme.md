@@ -18,3 +18,24 @@ GPT Engineer is a tool that uses the power of GPT (Generative Pretrained Transfo
 
                 Set Up GPT Engineer:
                 export OPENAI_API_KEY="your API Key"
+
+#### Random Joke Generator App:
+
+1. **app.py**: This is the main entry point of the application. It sets up the Flask app, defines a route to fetch and display the joke, and includes a function to fetch the joke from the API.
+2. **index.html**: This is the HTML template that renders the web page. It includes a placeholder for the joke and links to the CSS file for styling.
+3. **styles.css**: This file contains the CSS styles to make the web page colorful and visually appealing.
+4. **requirements.txt**: This file lists the dependencies required for the project.
+
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+```sh
+#!/bin/bash
+
+# Navigate to the project directory
+cd random_joke_app
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Flask application
+python app.py
+```
