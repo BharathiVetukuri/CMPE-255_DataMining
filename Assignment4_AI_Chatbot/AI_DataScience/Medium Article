@@ -1,0 +1,72 @@
+# Facial Expression Recognition using Convolutional Neural Networks
+
+#AI Powered Data Science
+
+### Abstract:
+Facial expression recognition (FER) has gained significant attention in fields such as human-computer interaction, healthcare, and security. This research focuses on building a Convolutional Neural Network (CNN) to recognize seven basic facial emotions using the FER2013 dataset. Through data preprocessing, CNN model building, and optimization techniques such as data augmentation and dropout, the model achieved competitive accuracy. This study demonstrates the potential of deep learning in automating facial expression recognition and highlights areas for further improvement.
+
+### Goal:
+The primary goal of this project is to develop a Facial Expression Recognition (FER) System using the FER2013 dataset. The system will classify images of human faces into one of several emotional categories such as happy, sad, angry, surprised, etc. We use the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology for performing this task.
+
+## Step 1: Business Understanding
+Objectives:
+Data Exploration and Visualization: Understand the FER2013 dataset, including its structure, distribution of classes (emotions), and overall quality.
+Data Preparation and Preprocessing: Perform data cleaning, normalization, augmentation, and splitting to prepare the dataset for model training.
+Model Development: Build and train a Convolutional Neural Network (CNN) model to recognize and classify facial expressions. Optionally, compare it to simpler baseline models.
+Evaluation and Validation: Evaluate the model’s performance using appropriate metrics (e.g., accuracy, confusion matrix) and validate its generalization capabilities.
+Deployment Consideration: Consider how the model could be deployed in a real-world setting, including potential user interfaces and deployment environments (e.g., mobile, web).
+Final Recommendation: Based on the evaluation results, provide insights on the strengths and limitations of the model and suggest possible improvements.
+
+## Step 2: Data Understanding
+The Data Understanding phase involves examining the data to gain insights into its structure, distribution, and potential quality issues. This step helps us assess the complexity of the task and prepare for data preprocessing.
+
+Tasks in Data Understanding:
+Data Loading and Inspection: We begin by unzipping and loading the FER2013 dataset to understand its format and structure. We’ll check the number of images, labels, and dimensions.
+Class Distribution: It is important to understand how the different emotion categories are distributed in the dataset (e.g., is the dataset balanced or skewed towards certain emotions?).
+Data Visualization: Visualize some samples from each class to get an intuition of the data quality, such as the variety of expressions and variations in lighting, orientation, etc.
+
+4. Summary Statistics: Generate descriptive statistics such as the number of samples, image dimensions, and pixel value distributions.
+
+## Step 3: Data Preparation
+The Data Preparation phase is crucial for setting up the dataset in a format that is optimal for model training. This step typically involves cleaning the data, normalizing it, splitting it into features and labels, and applying data augmentation techniques to improve the generalization capabilities of the model.
+
+Key Tasks in Data Preparation:
+Data Cleaning: Check for any corrupted images, inconsistent labels, or other anomalies that might need to be corrected or removed from the dataset. Although the dataset appears to be clean and organized, it is still important to ensure there are no issues with the data.
+Normalization: Pixel values in image datasets often range from 0 to 255. Neural networks typically work best when input values are normalized to a smaller range, such as between 0 and 1. This can be done by dividing the pixel values by 255.
+Data Augmentation: Since facial expressions can vary slightly depending on camera angles, lighting, or facial orientation, data augmentation can be helpful in improving the model’s robustness. Techniques such as rotations, flips, and zooming can be applied to artificially increase the diversity of the training data.
+Resizing and Reshaping: If necessary, resize images to a uniform size (typically something like 48x48 pixels for computational efficiency) and reshape them to the appropriate input dimensions for the CNN model (e.g., adding a channel dimension).
+Splitting Features and Labels: Separate the image data from the corresponding emotion labels, preparing them as inputs (X) and outputs (y) for model training.
+
+## Step 4: Data Preparation for Modeling
+In this step, we will prepare the data from the ‘ckextended.csv’ file for training a model. Here’s what we will do:
+
+Data Splitting: We’ll divide the data into training and validation sets based on the ‘Usage’ column. The data marked as “Training” will be used to train the model, while we will reserve a portion of it for validation.
+Image Normalization: We will normalize the pixel values by scaling them to a range of 0 to 1, which is standard practice for training neural networks.
+One-Hot Encoding Labels: Since the emotion labels are categorical, we will convert them into one-hot encoded vectors, which is necessary for classification tasks in neural networks.
+Reshaping Data: We will reshape the images to include a channel dimension (1 for grayscale) to be compatible with Convolutional Neural Networks (CNNs).
+
+## Step 5: Model Development
+We will now build a Convolutional Neural Network (CNN) for this task. Here’s a basic outline of the architecture:
+
+Convolutional Layers: Extract features from the input images using multiple convolutional layers, followed by activation functions (ReLU) and pooling layers to reduce dimensionality.
+Fully Connected Layers: After flattening the feature maps, fully connected layers will be used to classify the image into one of the 8 emotion categories.
+Output Layer: The final layer will have 8 neurons (one for each emotion) with a softmax activation function to output class probabilities.
+Here is the step-by-step approach to defining and training the model:
+
+Model Architecture Definition: Create the layers of the CNN.
+Compilation: Specify the optimizer, loss function, and evaluation metric.
+Training: Train the model using the training data and validate it on the validation set.
+Evaluation: Monitor the model’s performance and tune it for better accuracy.
+
+## Step 6: Model Saving and Deployment
+After training, the model was saved as a file for later use in inference or further training. The saved model can be deployed in a real-time application to recognize facial expressions from images or video streams.
+
+## Conclusion
+This study demonstrated the application of CNNs for facial expression recognition using the FER2013 dataset. The model achieved competitive results, highlighting the potential of deep learning in recognizing human emotions from facial images. However, improvements in accuracy can be pursued by addressing class imbalances, applying transfer learning, and experimenting with more advanced architectures. Future work will explore these avenues to further enhance the model’s robustness and performance.
+
+Further References:
+Youtube Link: https://www.youtube.com/watch?v=j9G0EpqMCDc 
+
+Google Colab Link: The following link has the code for implementing the above CNN Model, Prediction and Evalaution.
+
+https://github.com/BharathiVetukuri/CMPE-255_DataMining/blob/main/Assignment4_AI_Chatbot/AI_DataScience/facial_expression_recognition_cnn_colab.ipynb 
