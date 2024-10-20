@@ -4,7 +4,7 @@ For each methodology (CRISP-DM SEMMA AND KDD )demonstrate a project which uses a
 
 # Solution:
 
-###The KDD Methodology:
+### The KDD Methodology:
 The KDD process involves five major steps:
 
 **Data Selection**: Identifying the relevant dataset for analysis.
