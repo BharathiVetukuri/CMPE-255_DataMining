@@ -23,4 +23,4 @@ Medium Article: https://medium.com/@soumyabharathi.vetukuri/kdd-methodology-a-jo
 
 Youtube Link: https://youtu.be/v6s5jmaF-A8
 
-[![CRISP DM](https://img.youtube.com/vi/v6s5jmaF-A8/0.jpg)](https://www.youtube.com/watch?v=v6s5jmaF-A8)  
+[![KDD](https://img.youtube.com/vi/v6s5jmaF-A8/0.jpg)](https://www.youtube.com/watch?v=v6s5jmaF-A8)  
