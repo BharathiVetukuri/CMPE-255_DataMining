@@ -4,8 +4,9 @@ For each methodology (CRISP-DM SEMMA AND KDD )demonstrate a project which uses a
 
 # Solution:
 
-### The KDD Methodology:
-The KDD process involves five major steps:
+### SEMMA:
+
+Using the SEMMA methodology, I successfully built a model capable of detecting fraudulent credit card transactions with a high degree of accuracy and recall. 
 
 **Data Selection**: Identifying the relevant dataset for analysis.
 
