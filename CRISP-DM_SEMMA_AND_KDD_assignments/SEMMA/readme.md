@@ -8,15 +8,15 @@ For each methodology (CRISP-DM SEMMA AND KDD )demonstrate a project which uses a
 
 Using the SEMMA methodology, I successfully built a model capable of detecting fraudulent credit card transactions with a high degree of accuracy and recall. 
 
-**Data Selection**: Identifying the relevant dataset for analysis.
+**Sample**: Selecting a representative sample from the dataset that is large enough to contain the important information, yet small enough to process efficiently.
 
-**Data Preprocessing**: Cleaning and preparing the data for further analysis.
+**Explore**: Explore the data by searching for patterns, anomalies, and relationships among variables.
 
-**Data Transformation**: Creating new features that enhance model performance.
+**Modify**: Modify the data to prepare it for modeling. This phase involves selecting, creating, and transforming variables.
 
-**Data Mining**: Applying machine learning models to discover patterns and knowledge from the data.
+**Model**: Apply various modeling techniques to the prepared data to predict outcomes or classify data.
 
-**Interpretation and Evaluation**: Interpreting the results and ensuring they align with business goals.
+**Assess**: Evaluate the model’s performance and compare models to choose the best one for deployment.
 
 Colab Link: https://colab.research.google.com/drive/1eh0c0n7WfIb5pbDt9gt3rK5sIkxypTys?usp=sharing
 
