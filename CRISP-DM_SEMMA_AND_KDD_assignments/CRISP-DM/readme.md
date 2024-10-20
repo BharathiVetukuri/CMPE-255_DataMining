@@ -7,10 +7,15 @@ For each methodology (CRISP-DM SEMMA AND KDD )demonstrate a project which uses a
 By following the **CRISP-DM** methodology, I was able to systematically approach the Titanic dataset and build a robust machine learning model. Step by step process of CRISP DM:
 
 **Business Understanding**: Clear objective to predict passenger survival.
+
 **Data Understanding**: Explored patterns and relationships within the data.
+
 **Data Preparation**: Cleaned and prepared the data for modeling.
+
 **Modeling**: Experimented with multiple models, choosing Random Forest for its strong performance.
+
 **Evaluation**: Thoroughly assessed model performance, beyond just accuracy.
+
 **Deployment**: Saved the model, preparing it for future use.
 
 Colab Link: https://colab.research.google.com/drive/1uaKjwejGpjnIaknztYXO6QW3EDXt32YT?usp=sharing 
