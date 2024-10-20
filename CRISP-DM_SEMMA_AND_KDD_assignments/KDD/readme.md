@@ -8,7 +8,7 @@ For each methodology (CRISP-DM SEMMA AND KDD )demonstrate a project which uses a
 
 # Solution:
 
-By following the **CRISP-DM** methodology, I was able to systematically approach the Titanic dataset and build a robust machine learning model. Step by step process of CRISP DM:
+[By following the **CRISP-DM** methodology, I was able to systematically approach the Titanic dataset and build a robust machine learning model. Step by step process of CRISP DM:
 
 **Business Understanding**: Clear objective to predict passenger survival.
 
@@ -20,7 +20,7 @@ By following the **CRISP-DM** methodology, I was able to systematically approach
 
 **Evaluation**: Thoroughly assessed model performance, beyond just accuracy.
 
-**Deployment**: Saved the model, preparing it for future use.
+**Deployment**: Saved the model, preparing it for future use.](https://colab.research.google.com/drive/114Hv3I9uJ8Dnbmv9eTpfD1jM44uYDNxB?usp=sharing)
 
 Colab Link: https://colab.research.google.com/drive/114Hv3I9uJ8Dnbmv9eTpfD1jM44uYDNxB?usp=sharing 
 
