@@ -1,4 +1,4 @@
-# Data engineering colab and apache beam or apache spark colab
+# Data engineering and Apache Beam or Apache Spark
 
 ### Assignment:
 a) Assignment 1 is to do a complete dataset EDA in colab (preferably using D3.js visualizations)
