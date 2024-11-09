@@ -16,7 +16,7 @@ You can useBeamML for exercise https://beam.apache.org/documentation/ml/about-ml
 
 ### SOLUTION:
 
-Youtube Link: https://youtu.be/V1YApPvBdWs 
+Youtube Link: [![Apache Beam](https://img.youtube.com/vi/V1YApPvBdWs/0.jpg)](https://www.youtube.com/watch?v=V1YApPvBdWs)
 
 #### a) EDA (Exploratory Data Analysis):
 
