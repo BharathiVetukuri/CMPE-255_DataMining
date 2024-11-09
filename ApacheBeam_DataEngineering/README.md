@@ -31,7 +31,7 @@ Prepare for Further Analysis: Prepare data for further processing, including cle
 
 EDA is generally the first step in the data modeling process, right after initial data cleaning and preparation, and it guides how to proceed with predictive modeling or other advanced data analysis tasks. It is largely an open-ended process and can vary significantly from one analysis to another based on the data and the specific questions being asked.
 
-Colab: https://colab.research.google.com/drive/18MJos619waWgh-9xjgBlV-L9rCisPtOB?usp=sharing 
+Colab Link: https://colab.research.google.com/drive/18MJos619waWgh-9xjgBlV-L9rCisPtOB?usp=sharing 
 
 #### b) AUTO EDA with Pandas Profiler:
 
@@ -39,7 +39,7 @@ For this part of the assignment I have chosen Pandas Profiler tool to perform ED
 
 Auto EDA with Pandas Profiler streamlines the initial data exploration process by automatically generating comprehensive reports from pandas DataFrames. This tool provides detailed insights into each dataset, including distributions, correlations, missing values, and more, all through a single line of code. The generated reports are interactive and include visualizations for a deeper understanding of the data, making Pandas Profiler an essential tool for quickly assessing data quality and structure. This efficiency is invaluable in large datasets, helping analysts and data scientists to identify potential areas of focus or concern at the outset of their analysis.
 
-Colab Link: 
+Colab Link: https://colab.research.google.com/drive/10DyxmrJUGHl6H0E416iaT-BeHs2SC84j?usp=sharing 
 
 #### c) APACHE BEAM FEATURES:
 
@@ -48,7 +48,7 @@ Apache Beam is a powerful tool for building parallel data processing pipelines, 
 ##### 1. ParDo
 ParDo is one of the most fundamental processing primitives in Apache Beam, similar to the "map" or "flatMap" functions in other data processing systems. It processes each element of the input independently and can produce zero or more output elements, allowing for operations such as filtering, updating, and transforming elements.
 
-###### 2. Composite Transforms
+##### 2. Composite Transforms
 Composite transforms are user-defined combinations of multiple transforms that bundle processing logic into a single module. This allows for reusable components and cleaner code.
 
 ##### 3. Windowing
@@ -65,6 +65,7 @@ Beam excels at handling streaming data, providing real-time data processing capa
 
 Each of these features makes Apache Beam a robust choice for complex data processing tasks, enabling scalable and efficient implementations for both batch and real-time streaming applications.
 
+Colab Link: https://colab.research.google.com/drive/1chxZ9y3OKH6J_GaEPB9pt5pwxn0OX9nm?usp=sharing 
 
 
 
