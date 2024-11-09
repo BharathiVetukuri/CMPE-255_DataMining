@@ -1,6 +1,6 @@
-Data engineering colab and apache beam or apache spark colab
+# Data engineering colab and apache beam or apache spark colab
 
-Assignment:
+### Assignment:
 a) Assignment 1 is to do a complete dataset EDA in colab (preferably using D3.js visualizations)
 Pick a complex dataset from kaggle 
 Please push to limits and demonstrate advanced d3.js visualizations 
@@ -14,15 +14,15 @@ https://beam.apache.org/documentation/programming-guide/Links to an external sit
 create a video explaining above works 
 You can useBeamML for exercise https://beam.apache.org/documentation/ml/about-ml/Links to an external site.
 
-SOLUTION:
+### SOLUTION:
 
 Youtube Link: https://youtu.be/V1YApPvBdWs 
 
-a) EDA (Exploratory Data Analysis):
+#### a) EDA (Exploratory Data Analysis):
 
 EDA stands for Exploratory Data Analysis. It is a crucial step in the data analysis process, during which a data analyst or data scientist explores and visualizes data sets to understand their main characteristics, often using statistical graphics and other data visualization methods. Here are the primary goals and steps involved in EDA:
 
-Goals of EDA:
+##### Goals of EDA:
 Discover Patterns: Identify patterns, trends, and relationships among data points.
 Spot Anomalies: Detect outliers and anomalies that might skew the data or indicate data errors.
 Frame Hypotheses: Formulate hypotheses and questions based on the visualization and understanding of the data.
@@ -33,7 +33,7 @@ EDA is generally the first step in the data modeling process, right after initia
 
 Colab: https://colab.research.google.com/drive/18MJos619waWgh-9xjgBlV-L9rCisPtOB?usp=sharing 
 
-b) AUTO EDA with Pandas Profiler:
+#### b) AUTO EDA with Pandas Profiler:
 
 For this part of the assignment I have chosen Pandas Profiler tool to perform EDA. Auto EDA (Exploratory Data Analysis) tools can significantly speed up the data analysis process by automating many of the routine tasks involved in exploring datasets. Pandas Profiling is one such tool that integrates with Python and the pandas library to create detailed statistical reports from a DataFrame.
 
@@ -41,9 +41,29 @@ Auto EDA with Pandas Profiler streamlines the initial data exploration process b
 
 Colab Link: 
 
-c) APACHE BEAM FEATURES:
+#### c) APACHE BEAM FEATURES:
 
 Apache Beam is a powerful tool for building parallel data processing pipelines, with several advanced features to handle complex processing tasks for both batch and stream data. Demonstrated the following Features of Apache Beam in the cloab: composite transform, pipeline io, triggers, windowing ,pardo and streaming.
+
+##### 1. ParDo
+ParDo is one of the most fundamental processing primitives in Apache Beam, similar to the "map" or "flatMap" functions in other data processing systems. It processes each element of the input independently and can produce zero or more output elements, allowing for operations such as filtering, updating, and transforming elements.
+
+###### 2. Composite Transforms
+Composite transforms are user-defined combinations of multiple transforms that bundle processing logic into a single module. This allows for reusable components and cleaner code.
+
+##### 3. Windowing
+Windowing is used to subdivide a PCollection according to the timestamps of its individual elements. Beam supports several windowing strategies like fixed, sliding, session, and global windows.
+
+##### 4. Triggers
+Triggers in Beam allow the system to handle late data by specifying when to emit the results of a window. Triggers can fire based on processing time, data arrival, or after a certain delay.
+
+##### 5. Pipeline I/O
+Beam supports reading from and writing to various data sources and sinks. This includes files, databases, and message queues, which allows Beam to interact with external systems seamlessly.
+
+##### 6. Streaming
+Beam excels at handling streaming data, providing real-time data processing capabilities by continuously updating the results as new data arrives.
+
+Each of these features makes Apache Beam a robust choice for complex data processing tasks, enabling scalable and efficient implementations for both batch and real-time streaming applications.
 
 
 
