@@ -44,6 +44,7 @@ Auto EDA with Pandas Profiler streamlines the initial data exploration process b
 Colab Link: https://colab.research.google.com/drive/10DyxmrJUGHl6H0E416iaT-BeHs2SC84j?usp=sharing 
 
 Report Recording Link: https://youtu.be/CQ-nLRSjOrE 
+
 [![EDA Report Recording](https://img.youtube.com/vi/CQ-nLRSjOrE/0.jpg)](https://www.youtube.com/watch?v=CQ-nLRSjOrE)
 
 
