@@ -30,7 +30,7 @@ a) in a colab,  train a gnn based model for tabular prediction task using relben
 
 a) TimeGPT Multivariate: https://colab.research.google.com/drive/1PP1yPYbHuaEi-59DqHgYNIKYLpU1qply?usp=sharing 
 
-   Long Horizon: https://colab.research.google.com/drive/1E2dEwkbI3EC3vuZQH0cV-koLAY8nyeji?usp=sharing 
+      Long Horizon: https://colab.research.google.com/drive/1E2dEwkbI3EC3vuZQH0cV-koLAY8nyeji?usp=sharing 
 
 b) Fine Tuning: https://colab.research.google.com/drive/19QigbecDe7SNJuEQ2mNncaXwFG02-loU?usp=sharing 
 
