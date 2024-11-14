@@ -8,8 +8,11 @@ TimeGPT:
 
 a) timegpt multivariate colab and long horizon colab  with example timeseries data
 hint: https://docs.nixtla.io/docs/tutorials-multiple_series_forecasting
+
 b) finetune timegpt with your own data - hint: https://docs.nixtla.io/docs/tutorials-fine_tuning
+
 c) anomaly detection of timeseries using timegpt - hint : https://docs.nixtla.io/docs/tutorials-anomaly_detection
+
 d) utilize timegpt for energy forecasting  - hint : https://docs.nixtla.io/docs/use-cases-forecasting_energy_demand
 e) use timegpt for bitcoin forecasting :  hint : https://docs.nixtla.io/docs/use-cases-bitcoin_price_prediction
 
