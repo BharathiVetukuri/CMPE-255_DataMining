@@ -54,11 +54,15 @@ Inference on Tabula model with zero shot Colab Link: https://colab.research.goog
 
 Youtube Link: https://youtu.be/glxNoXyonC4 
 
+[![Tabula RDL](https://img.youtube.com/vi/glxNoXyonC4/0.jpg)](https://www.youtube.com/watch?v=glxNoXyonC4) 
+
 # RDL and Relbench:
 
 Colab Link: https://colab.research.google.com/drive/1aE_Np0uJkBt4P2bKkJ0e5IrFu2673t_0?usp=sharing 
 
-Youtube Link: https://youtu.be/glxNoXyonC4
+Youtube Link: https://youtu.be/glxNoXyonC4 
+
+[![Tabula RDL](https://img.youtube.com/vi/glxNoXyonC4/0.jpg)](https://www.youtube.com/watch?v=glxNoXyonC4) 
 
 ## Key Learnings:
 
