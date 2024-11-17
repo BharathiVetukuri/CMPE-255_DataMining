@@ -72,6 +72,16 @@ Irregular Timestamps: Handle data with irregular timestamps, accommodating non-u
 
 Anomaly Detection: Automatically detect anomalies in time series, and use exogenous features for enhanced performance.
 
+# Tabula:
+
+Tabula improves tabular data synthesis by leveraging language model structures without the burden of pre-trained model weights. It offers a faster training process by preprocessing tabular datato shorten token sequence, which sharply reducing training time while consistently delivering higher-quality synthetic data.
+
+# Relational Deep Learning:
+
+Relational Deep Learning is a new approach for end-to-end representation learning on data spread across multiple tables, such as in a relational database. Relational databases are the world’s most widely used data management system, and are used for industrial and scientific purposes across many domains. RelBench is a benchmark designed to facilitate efficient, robust and reproducible research on end-to-end deep learning over relational databases.
+
+RelBench contains 7 realistic, large-scale, and diverse relational databases spanning domains including medical, social networks, e-commerce and sport. Each database has multiple predictive tasks (30 in total) defined, each carefully scoped to be both challenging and of domain-specific importance. It provides full support for data downloading, task specification and standardized evaluation in an ML-framework-agnostic manner. Additionally, RelBench provides a first open-source implementation of a Graph Neural Network based approach to relational deep learning. This implementation uses PyTorch Geometric to load the data as a graph and train GNN models, and PyTorch Frame for modeling tabular data.
+
 
 
 
