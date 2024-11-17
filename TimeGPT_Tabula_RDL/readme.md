@@ -19,8 +19,9 @@ e) use timegpt for bitcoin forecasting :  hint : https://docs.nixtla.io/docs/use
 
 Tabular:
 
-a) Generate synthetic data for a real data set   hint: https://github.com/zhaozilong/Tabula/blob/main/Tabula_on_insurance_dataset.ipynb
-b) demonstrate inference on tabula model with zero shot hint: https://github.com/mlfoundations/rtfm/blob/main/notebooks/inference.ipynb
+a) Generate synthetic data for a real data set hint: https://github.com/zhao-zilong/Tabula/blob/main/Tabula_on_insurance_dataset.ipynb
+
+b) Inference on tabula model with zero shot hint: https://github.com/mlfoundations/rtfm/blob/main/notebooks/inference.ipynb
 
 RDL and relbench:
 
@@ -48,7 +49,7 @@ e) Bitcoin Forecating: https://colab.research.google.com/drive/1awgL02tHfXwIm5Y0
 
 # Tabula:
 
-Generate synthetic data for a real data Colab Link: https://colab.research.google.com/drive/17LodfWhcxVVdShdYtJGeoPvyYIeFOtGY?usp=sharing
+Generate synthetic data for real data Colab Link: https://colab.research.google.com/drive/17LodfWhcxVVdShdYtJGeoPvyYIeFOtGY?usp=sharing
 
 Inference on Tabula model with zero shot Colab Link: https://colab.research.google.com/drive/17LodfWhcxVVdShdYtJGeoPvyYIeFOtGY?usp=sharing
 
