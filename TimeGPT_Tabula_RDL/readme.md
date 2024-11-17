@@ -28,9 +28,9 @@ a) in a colab,  train a gnn based model for tabular prediction task using relben
 
 ### Solution:
 
-Youtube Link: https://youtu.be/qANnp7KCYbA 
+Youtube Link: https://youtu.be/qANnp7KCYbA  
 
-
+[![TimeGPT Features](https://img.youtube.com/vi/qANnp7KCYbA/0.jpg)](https://www.youtube.com/watch?v=qANnp7KCYbA) 
 
 a) TimeGPT Multivariate: https://colab.research.google.com/drive/1PP1yPYbHuaEi-59DqHgYNIKYLpU1qply?usp=sharing 
 
