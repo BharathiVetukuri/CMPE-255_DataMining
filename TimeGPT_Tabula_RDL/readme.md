@@ -28,6 +28,8 @@ a) in a colab,  train a gnn based model for tabular prediction task using relben
 
 ### Solution:
 
+# TimeGPT:
+
 Youtube Link: https://youtu.be/qANnp7KCYbA  
 
 [![TimeGPT Features](https://img.youtube.com/vi/qANnp7KCYbA/0.jpg)](https://www.youtube.com/watch?v=qANnp7KCYbA) 
@@ -43,6 +45,18 @@ c) Anomaly Detection: https://colab.research.google.com/drive/1FeSkst1BiDl0wgN-z
 d) Energy Forecating: https://colab.research.google.com/drive/18j4_WMoNSro_8pdb7Za8aYbXNFGYhSyX?usp=sharing 
 
 e) Bitcoin Forecating: https://colab.research.google.com/drive/1awgL02tHfXwIm5Y01aqBqCU4k9X53Lpa?usp=sharing 
+
+# Tabula:
+
+Colab Link: https://colab.research.google.com/drive/17LodfWhcxVVdShdYtJGeoPvyYIeFOtGY?usp=sharing
+
+Youtube Link: 
+
+# RDL and Relbench:
+
+Colab Link: 
+
+Youtube Link:
 
 ## Key Learnings:
 
