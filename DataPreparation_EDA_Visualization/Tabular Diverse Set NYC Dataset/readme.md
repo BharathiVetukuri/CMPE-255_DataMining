@@ -21,8 +21,7 @@ Colab Link: https://colab.research.google.com/drive/1LU34MEEZtkC5hCNxp0XW5KIENz1
 
 Youtube Link: https://youtu.be/zrMViT2SqJg 
 
-
-
+[![NYC AutoViML](https://img.youtube.com/vi/zrMViT2SqJg/0.jpg)](https://www.youtube.com/watch?v=zrMViT2SqJg)
 
 ## Key Learnings from the Assignment:
 
