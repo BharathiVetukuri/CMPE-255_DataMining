@@ -52,13 +52,13 @@ Generate synthetic data for a real data Colab Link: https://colab.research.googl
 
 Inference on Tabula model with zero shot Colab Link: https://colab.research.google.com/drive/17LodfWhcxVVdShdYtJGeoPvyYIeFOtGY?usp=sharing
 
-Youtube Link: 
+Youtube Link: https://youtu.be/glxNoXyonC4 
 
 # RDL and Relbench:
 
 Colab Link: https://colab.research.google.com/drive/1aE_Np0uJkBt4P2bKkJ0e5IrFu2673t_0?usp=sharing 
 
-Youtube Link:
+Youtube Link: https://youtu.be/glxNoXyonC4
 
 ## Key Learnings:
 
