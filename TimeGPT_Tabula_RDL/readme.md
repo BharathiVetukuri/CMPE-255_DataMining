@@ -48,7 +48,9 @@ e) Bitcoin Forecating: https://colab.research.google.com/drive/1awgL02tHfXwIm5Y0
 
 # Tabula:
 
-Colab Link: https://colab.research.google.com/drive/17LodfWhcxVVdShdYtJGeoPvyYIeFOtGY?usp=sharing
+Generate synthetic data for a real data Colab Link: https://colab.research.google.com/drive/17LodfWhcxVVdShdYtJGeoPvyYIeFOtGY?usp=sharing
+
+Inference on Tabula model with zero shot Colab Link: https://colab.research.google.com/drive/17LodfWhcxVVdShdYtJGeoPvyYIeFOtGY?usp=sharing
 
 Youtube Link: 
 
