@@ -40,6 +40,34 @@ d) Energy Forecating: https://colab.research.google.com/drive/18j4_WMoNSro_8pdb7
 
 e) Bitcoin Forecating: https://colab.research.google.com/drive/1awgL02tHfXwIm5Y01aqBqCU4k9X53Lpa?usp=sharing 
 
+## Key Learnings:
+
+# TimeGPT:
+
+TimeGPT is a production-ready generative pretrained transformer for time series. It’s capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code. It is user-friendly and low-code. Users can simply upload their time series data and generate forecasts or detect anomalies with just a single line of code.
+
+#### Features and Capabilities:
+
+Zero-shot Inference: TimeGPT can generate forecasts and detect anomalies straight out of the box, requiring no prior training data. This allows for immediate deployment and quick insights from any time series data.
+
+Fine-tuning: Enhance TimeGPT’s capabilities by fine-tuning the model on your specific datasets, enabling the model to adapt to the nuances of your unique time series data and improving performance on tailored tasks.
+
+API Access: Integrate TimeGPT seamlessly into your applications via our robust API (obtain an API key through our Dashboard). TimeGPT is also supported through Azure Studio for even more flexible integration options. Alternatively, deploy TimeGPT on your own infrastructure to maintain full control over your data and workflows.
+
+Add Exogenous Variables: Incorporate additional variables that might influence your predictions to enhance forecast accuracy. (E.g. Special Dates, events or prices)
+
+Multiple Series Forecasting: Simultaneously forecast multiple time series data, optimizing workflows and resources.
+
+Specific Loss Function: Tailor the fine-tuning process by choosing from many loss functions to meet specific performance metrics.
+
+Cross-validation: Implement out of the box cross-validation techniques to ensure model robustness and generalizability.
+
+Prediction Intervals: Provide intervals in your predictions to quantify uncertainty effectively.
+
+Irregular Timestamps: Handle data with irregular timestamps, accommodating non-uniform interval series without preprocessing.
+
+Anomaly Detection: Automatically detect anomalies in time series, and use exogenous features for enhanced performance.
+
 
 
 
