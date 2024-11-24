@@ -1,6 +1,6 @@
 # Clustering Algorithms:
 
-The following CLustering Algorithms were illustrated in detail:
+The following Clustering Algorithms were illustrated in detail:
 
 A) K-Means clustering from scratch
 
