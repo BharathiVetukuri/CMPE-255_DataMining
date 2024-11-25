@@ -31,6 +31,8 @@ GMM uses the EM algorithm to optimize the parameters:
 E-Step (Expectation): Estimate the probabilities of each data point belonging to each cluster based on current parameters.
 M-Step (Maximization): Update the parameters (μ,Σ, and cluster weights) to maximize the likelihood of the data.
 
+Gaussian Mixture Models provide a powerful way to cluster data with overlapping or non-spherical distributions. While computationally intensive, GMM offers flexibility and probabilistic insights into clustering, making it suitable for a wide range of real-world applications.
+
 
 
 
