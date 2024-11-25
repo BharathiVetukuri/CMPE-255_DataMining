@@ -23,21 +23,13 @@ MinPts: Minimum number of points required to form a dense region (a cluster).
 
 ### How DBScan Works:
 
-**Core Points:**
+**Core Points:** A point is a core point if it has at least MinPts neighbors within a distance of ε.
 
-A point is a core point if it has at least MinPts neighbors within a distance of ε.
+**Border Points:** A point is a border point if it is not a core point but lies within the ε neighborhood of a core point.
 
-**Border Points:**
+**Noise:** Points that are neither core points nor border points are classified as noise.
 
-A point is a border point if it is not a core point but lies within the ε neighborhood of a core point.
-
-**Noise:**
-
-Points that are neither core points nor border points are classified as noise.
-
-**Clustering:**
-
-Clusters are formed by connecting core points and their neighbors.
+**Clustering:** Clusters are formed by connecting core points and their neighbors.
 
 DBSCAN is a powerful clustering algorithm for identifying clusters of arbitrary shapes and densities. While parameter selection can be challenging, it excels in applications with noisy or irregularly distributed data. For best results, combine it with tools like the k-distance plot and evaluation metrics such as the Silhouette Score.
 
