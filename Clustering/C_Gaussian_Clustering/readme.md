@@ -27,7 +27,8 @@ Covariance (Σ): Shape and orientation of the cluster.
 Soft Clustering:
 
 Instead of assigning each point to a single cluster, GMM assigns probabilities for a point to belong to each cluster.
-Expectation-Maximization (EM) Algorithm:
+
+**Expectation-Maximization (EM) Algorithm:**
 
 GMM uses the EM algorithm to optimize the parameters:
 E-Step (Expectation): Estimate the probabilities of each data point belonging to each cluster based on current parameters.
