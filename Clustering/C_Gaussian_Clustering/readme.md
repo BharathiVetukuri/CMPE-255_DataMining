@@ -9,6 +9,8 @@ Colab Links: https://colab.research.google.com/drive/1dP58y4aWq9i8Xkx3mjntILLvKP
 
 Yotube Link: https://youtu.be/1tjB-X4JdW4 
 
+[![DocumentClustering](https://img.youtube.com/vi/Pp8MnlCKpgE/0.jpg)](https://www.youtube.com/watch?v=Pp8MnlCKpgE) 
+
 ### Key Learnings:
 
 ## **Gaussian Mixture Models (GMM) for Clustering:**
