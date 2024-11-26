@@ -29,9 +29,9 @@ Youtube: https://youtu.be/TjuMXaL0k7Y
 
 Clustering time series data using pretrained models involves grouping similar time series based on learned representations, typically obtained from models trained to capture temporal patterns.
 
-#### Steps for Clustering Time Series Data Using Pretrained Models
+##### Steps for Clustering Time Series Data Using Pretrained Models
 
-##### 1. Preprocessing the Time Series Data
+#### 1. Preprocessing the Time Series Data
 
 **Normalization/Standardization:** Scale the data to ensure uniformity.
 
@@ -39,7 +39,7 @@ Clustering time series data using pretrained models involves grouping similar ti
 
 **Noise Removal:** Apply smoothing techniques like moving averages if necessary.
 
-##### 2. Extract Features Using Pretrained Models
+#### 2. Extract Features Using Pretrained Models
 Pretrained models capture meaningful patterns and characteristics of time series data, enabling clustering based on extracted features.
 
 **Common Pretrained Models:**
@@ -69,7 +69,7 @@ DTW measures similarity between time series. Pretrained DTW-based methods may pr
 
 Libraries like tsfresh or catch22 compute handcrafted statistical features from time series data.
 
-##### 3. Clustering
+#### 3. Clustering
 Once features are extracted using a pretrained model, clustering methods like k-means or hierarchical clustering are applied.
 
 
