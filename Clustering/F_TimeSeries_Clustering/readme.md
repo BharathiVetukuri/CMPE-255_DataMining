@@ -10,7 +10,7 @@ https://github.com/effa/time-series-clustering
 
 https://github.com/qingsongedu/Awesome-TimeSeries-SpatioTemporal-LM-LLM
 
-Hint; https://github.com/cure-lab/Awesome-time-series#time-series-clustering
+https://github.com/cure-lab/Awesome-time-series#time-series-clustering
 
 https://github.com/qingsongedu/awesome-AI-for-time-series-papers
 
