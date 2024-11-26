@@ -25,20 +25,52 @@ Youtube: https://youtu.be/TjuMXaL0k7Y
 
 ### Key Learnings:
 
-## Anomaly Detection Using PyOD
-PyOD (Python Outlier Detection) is an open-source Python library designed specifically for detecting outliers or anomalies in datasets. It provides a comprehensive suite of tools for performing anomaly detection, making it a popular choice for researchers and practitioners. PyOD supports multivariate anomaly detection and can be integrated into machine learning pipelines.
+## TimeSeries Clustering
 
-### PyOD offers many algorithms categorized into:
+Clustering time series data using pretrained models involves grouping similar time series based on learned representations, typically obtained from models trained to capture temporal patterns.
 
-**Linear Models:** Principal Component Analysis (PCA), Robust Covariance.
+## Steps for Clustering Time Series Data Using Pretrained Models
 
-**Proximity Models:** k-Nearest Neighbors (KNN), Clustering-Based Local Outlier Factor (CBLOF).
+### 1. Preprocessing the Time Series Data
 
-**Probabilistic Models:** Gaussian Mixture Model (GMM), Copula-Based Outlier Detection.
+**Normalization/Standardization:** Scale the data to ensure uniformity.
 
-**Neural Networks:** Autoencoders, Variational Autoencoders (VAE).
+**Resampling:** Ensure all time series have the same length (e.g., via interpolation or truncation).
 
-**Ensemble Methods:** Feature Bagging, Isolation Forest.
+**Noise Removal:** Apply smoothing techniques like moving averages if necessary.
+
+### 2. Extract Features Using Pretrained Models
+Pretrained models capture meaningful patterns and characteristics of time series data, enabling clustering based on extracted features.
+
+**Common Pretrained Models**
+
+**Autoencoders:**
+
+Train an autoencoder to compress time series into lower-dimensional latent vectors.
+Use the encoder part of a pretrained autoencoder for feature extraction.
+
+**Convolutional Neural Networks (CNNs):**
+
+Models trained for classification tasks (e.g., image or time series) can be fine-tuned or directly used to extract embeddings.
+
+**Recurrent Neural Networks (RNNs) / LSTMs / GRUs:**
+
+RNN-based models capture temporal dependencies and can be used to generate embeddings.
+
+**Transformers:**
+
+Pretrained transformers (like Time2Vec or models fine-tuned for time series) encode positional and sequential information effectively.
+
+**Dynamic Time Warping (DTW)-based Representations:**
+
+DTW measures similarity between time series. Pretrained DTW-based methods may provide alignment metrics or distance matrices.
+
+**Feature-Based Libraries:**
+
+Libraries like tsfresh or catch22 compute handcrafted statistical features from time series data.
+
+### 3. Clustering
+Once features are extracted using a pretrained model, clustering methods like k-means or hierarchical clustering are applied.
 
 
 
