@@ -13,7 +13,7 @@ Colab Links: https://colab.research.google.com/drive/1UR-e6rJuVO8jV40mFo1-KTn5Ea
 
 Yotube Link: https://youtu.be/1tjB-X4JdW4 
 
-[![DocumentClustering](https://img.youtube.com/vi/Pp8MnlCKpgE/0.jpg)](https://www.youtube.com/watch?v=Pp8MnlCKpgE) 
+[![DocumentClustering](https://img.youtube.com/vi/1tjB-X4JdW4/0.jpg)](https://www.youtube.com/watch?v=1tjB-X4JdW4) 
 
 ### Key Learnings:
 
