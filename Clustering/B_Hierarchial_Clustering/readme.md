@@ -7,7 +7,7 @@ hint : https://colab.sandbox.google.com/github/saskeli/data-analysis-with-python
 Colab Links: https://colab.research.google.com/drive/1N41jeudkvBaZuEO9TG7vZa8TqeqbLSQV?usp=sharing 
              https://colab.research.google.com/drive/18T77Z5cupQE-7k49H7aRtw9SO-7HIEkT?usp=sharing
 
-Yotube Link: 
+Yotube Link: https://youtu.be/oVuzOKmwBk0 
 
 ### Key Learnings:
 
