@@ -7,7 +7,7 @@ hint : https://colab.sandbox.google.com/github/jakevdp/PythonDataScienceHandbook
 Colab Links: https://colab.research.google.com/drive/1dP58y4aWq9i8Xkx3mjntILLvKPwrpgho?usp=sharing 
               https://colab.research.google.com/drive/1e_W6pcO57pChNkTEg83gUoFtxDgKpgYu?usp=sharing 
 
-Yotube Link: 
+Yotube Link: https://youtu.be/1tjB-X4JdW4 
 
 ### Key Learnings:
 
