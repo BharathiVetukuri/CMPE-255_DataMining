@@ -9,6 +9,8 @@ Colab Links: https://colab.research.google.com/drive/1N41jeudkvBaZuEO9TG7vZa8Tqe
 
 Yotube Link: https://youtu.be/oVuzOKmwBk0 
 
+[![KMeansHierarchical](https://img.youtube.com/vi/oVuzOKmwBk0/0.jpg)](https://www.youtube.com/watch?v=oVuzOKmwBk0)
+
 ### Key Learnings:
 
 ## **Hierarchial Clustering:**
