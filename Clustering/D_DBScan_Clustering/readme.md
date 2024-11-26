@@ -11,7 +11,7 @@ http://www.pycaret.org/tutorials/html/CLU101.html
 Colab Links: https://colab.research.google.com/drive/1UR-e6rJuVO8jV40mFo1-KTn5EakJN-3w?usp=sharing 
               https://colab.research.google.com/drive/1F_keKl-VTOXjZu7JkmJrgZ_sad-K9MUQ?usp=sharing
 
-Yotube Link: 
+Yotube Link: https://youtu.be/1tjB-X4JdW4 
 
 ### Key Learnings:
 
