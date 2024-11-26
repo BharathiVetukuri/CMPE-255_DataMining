@@ -15,7 +15,7 @@ https://colab.sandbox.google.com/github/google/eng-edu/blob/main/ml/clustering/c
 Colab Links: https://colab.research.google.com/drive/1sW9U99LLa4yDR5H8i_YP2zUXcqEdCTUl?usp=sharing 
              https://colab.research.google.com/drive/1IqxOdSLWzbplz1ZjqQEK6NiEmxvgfHtn?usp=sharing 
 
-Yotube Link: 
+Yotube Link: https://youtu.be/oVuzOKmwBk0 
 
 ### Key Learnings:
 
