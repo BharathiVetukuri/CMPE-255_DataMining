@@ -102,3 +102,7 @@ Youtube Link: https://youtu.be/uZpte2rbBnk
 
 **Weaknesses**: Computationally intensive; requires tuning of architecture and hyperparameters. 
 
+
+<img width="644" alt="Dimensionality Reduction" src="https://github.com/user-attachments/assets/103fcb0b-6f88-4ea1-9982-c80fa7ee0be2">
+
+
