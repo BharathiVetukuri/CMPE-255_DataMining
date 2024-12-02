@@ -12,7 +12,8 @@ Youtube Link: https://youtu.be/uZpte2rbBnk
 
 B) Demonstrate Dimensionality Reduction using Databricks: 
 
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1417928263271201/326122370215561/5246768669098775/latest.html 
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1417928263271201/326122370215561/5246768669098775/latest.html  
+
 https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1417928263271201/326122370215579/5246768669098775/latest.html 
 
 Youtube Link: https://youtu.be/VXRuUlRckMk 
