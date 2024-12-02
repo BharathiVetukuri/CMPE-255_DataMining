@@ -4,7 +4,7 @@ A technique that reduces the number of features in a dataset while retaining the
 
 a) Image data set Colab Link: 
 
-b) Tabular data set Colab Link: 
+b) Tabular data set Colab Link: https://colab.research.google.com/drive/1M_hEGgpaVZ7qM-QhfGzFDnnim5UbZsrh?usp=sharing 
 
 Youtube Link:
 
