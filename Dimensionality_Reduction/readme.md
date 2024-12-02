@@ -9,7 +9,7 @@ b) Tabular data set Colab Link: https://colab.research.google.com/drive/1M_hEGgp
 Youtube Link:
 
 
-### Comparision between Dimensionality Reduction Techniques and Commentary on Results:
+#### Comparision between Dimensionality Reduction Techniques and Commentary on Results:
 
 ## Locally Linear Embedding (LLE) 
 
