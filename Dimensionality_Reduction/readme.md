@@ -8,7 +8,6 @@
 
 **Weaknesses**: Sensitive to noise and outliers; computationally expensive for large datasets.
 
----------------------------------------------------------------------------------------------------------------------------------------------
 
 ## t-SNE 
 **Observation**: t-SNE produces visually appealing 2D representations that clearly separate clusters (e.g., in the Digits dataset). However, it doesn’t preserve global structures well, which might make interpretations challenging. 
