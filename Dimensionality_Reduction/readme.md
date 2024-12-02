@@ -6,7 +6,7 @@ a) Image data set Colab Link: https://colab.research.google.com/drive/1QVhoKYY1G
 
 b) Tabular data set Colab Link: https://colab.research.google.com/drive/1M_hEGgpaVZ7qM-QhfGzFDnnim5UbZsrh?usp=sharing 
 
-Youtube Link:
+Youtube Link: https://youtu.be/uZpte2rbBnk 
 
 
 ### Comparision between Dimensionality Reduction Techniques and Commentary on Results:
