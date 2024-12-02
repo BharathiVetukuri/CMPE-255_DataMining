@@ -8,7 +8,16 @@ b) Tabular data set Colab Link: https://colab.research.google.com/drive/1M_hEGgp
 
 Youtube Link: https://youtu.be/uZpte2rbBnk 
 
-[![Dimensionality Reduction](https://img.youtube.com/vi/uZpte2rbBnk/0.jpg)](https://www.youtube.com/watch?v=uZpte2rbBnk)
+[![Dimensionality Reduction](https://img.youtube.com/vi/uZpte2rbBnk/0.jpg)](https://www.youtube.com/watch?v=uZpte2rbBnk) 
+
+B) Demonstrate Dimensionality Reduction using Databricks: 
+
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1417928263271201/326122370215561/5246768669098775/latest.html 
+https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1417928263271201/326122370215579/5246768669098775/latest.html 
+
+Youtube Link: https://youtu.be/VXRuUlRckMk 
+
+[![Databricks Dimensionality Reduction](https://img.youtube.com/vi/VXRuUlRckMk/0.jpg)](https://www.youtube.com/watch?v=VXRuUlRckMk) 
 
 
 ### Comparision between Dimensionality Reduction Techniques and Commentary on Results:
@@ -105,6 +114,4 @@ Youtube Link: https://youtu.be/uZpte2rbBnk
 
 <img width="644" alt="Dimensionality Reduction" src="https://github.com/user-attachments/assets/103fcb0b-6f88-4ea1-9982-c80fa7ee0be2">
 
-Databricks: 
 
-https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902 
