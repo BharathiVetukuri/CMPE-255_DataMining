@@ -8,6 +8,8 @@ b) Tabular data set Colab Link: https://colab.research.google.com/drive/1M_hEGgp
 
 Youtube Link: https://youtu.be/uZpte2rbBnk 
 
+[![Dimensionality Reduction](https://img.youtube.com/vi/uZpte2rbBnk/0.jpg)](https://www.youtube.com/watch?v=uZpte2rbBnk)
+
 
 ### Comparision between Dimensionality Reduction Techniques and Commentary on Results:
 
