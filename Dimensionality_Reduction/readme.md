@@ -1,6 +1,6 @@
 # Dimensionality Reduction
 
-It is a technique that reduces the number of features in a dataset while retaining the most important properties of the original data. The goal is to simplify complex data so it's easier to process and analyze. 
+A technique that reduces the number of features in a dataset while retaining the most important properties of the original data. The goal is to simplify complex data so it's easier to process and analyze. 
 
 ### Comparision between Dimensionality Reduction Techniques and Commentary on Results:
 
