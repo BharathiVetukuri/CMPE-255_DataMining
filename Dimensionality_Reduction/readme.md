@@ -2,7 +2,7 @@
 
 A technique that reduces the number of features in a dataset while retaining the most important properties of the original data. The goal is to simplify complex data so it's easier to process and analyze. 
 
-a) Image data set Colab Link: 
+a) Image data set Colab Link: https://colab.research.google.com/drive/1QVhoKYY1GVzK1DQbQOgBK03ujOdXvHEg?usp=sharing 
 
 b) Tabular data set Colab Link: https://colab.research.google.com/drive/1M_hEGgpaVZ7qM-QhfGzFDnnim5UbZsrh?usp=sharing 
 
