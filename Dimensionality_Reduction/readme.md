@@ -2,6 +2,13 @@
 
 A technique that reduces the number of features in a dataset while retaining the most important properties of the original data. The goal is to simplify complex data so it's easier to process and analyze. 
 
+a) Image data set Colab Link: 
+
+b) Tabular data set Colab Link: 
+
+Youtube Link:
+
+
 ### Comparision between Dimensionality Reduction Techniques and Commentary on Results:
 
 ## Locally Linear Embedding (LLE) 
