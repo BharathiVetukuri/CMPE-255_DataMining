@@ -32,7 +32,7 @@ Colab Link: https://colab.research.google.com/drive/1Com2Q_b3J0bbU710SjtNZjLiPaO
 
 ### 7. Gradient Boosting Ranking Techniques
 
-Colab Link:
+Colab Link: https://colab.research.google.com/drive/1S-22_NQLjvSP5C2EOkl3poldv2EZ2pAP?usp=sharing 
 
-Youtube Video:
+Youtube Video: https://youtu.be/uZpte2rbBnk 
 
