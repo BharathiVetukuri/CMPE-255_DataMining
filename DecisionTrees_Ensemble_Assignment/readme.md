@@ -20,7 +20,7 @@ Youtube Video:
 
 ### 4. Decision Trees
 
-Colab Link:
+Colab Link: https://colab.research.google.com/drive/1kCuSg31MOAH41zF_fajXxZU9xfqX-bMr?usp=sharing 
 
 Youtube Video:
 
