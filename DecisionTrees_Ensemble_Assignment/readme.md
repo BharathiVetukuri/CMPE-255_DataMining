@@ -14,7 +14,7 @@ Youtube Video:
 
 ### 3. AdaBoost
 
-Colab Link:
+Colab Link: https://colab.research.google.com/drive/1qAoK4L9c_Ec3s3ADOFArJfQ4eZXwkar4?usp=sharing 
 
 Youtube Video:
 
