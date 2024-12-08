@@ -26,7 +26,7 @@ Youtube Video:
 
 ### 5. Gradient Boosting Classification Techniques
 
-Colab Link:
+Colab Link: https://colab.research.google.com/drive/1Y3YtjNwpcC5sa5lrwzSuGHAWOZxN6aGj?usp=sharing 
 
 Youtube Video:
 
