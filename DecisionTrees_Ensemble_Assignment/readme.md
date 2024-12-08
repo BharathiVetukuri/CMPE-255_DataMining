@@ -2,7 +2,9 @@
 
 ### 1. Gradient Boosting Machines (GBM)
 
-Colab Link:
+  Colab Link: https://colab.research.google.com/drive/1HV1bk8gau_B7Sd35-9gFgEZi_ABCmGmS?usp=sharing, 
+  
+              https://colab.research.google.com/drive/1H4kV_MLHGXYrDn39G_8_4x-JMOTtD3LI?usp=sharing 
 
 Youtube Video:
 
