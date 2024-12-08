@@ -18,7 +18,11 @@ A sequential learning process where each new model is trained to correct the err
 
 **Iterative Weak Learner Training:**
 
-At each step: Train a weak learner using the current sample weights. Compute the weighted error of the weak learner. Calculate the learner's weight based on its error.
+At each step: 
+
+* Train a weak learner using the current sample weights. 
+* Compute the weighted error of the weak learner. 
+* Calculate the learner's weight based on its error.
 
 **Update the sample weights:** increase weights for misclassified samples, decrease for correctly classified ones. 
 
@@ -34,4 +38,5 @@ At each step: Train a weak learner using the current sample weights. Compute the
 
 # Comparison with Other Methods 
 
-Unlike Random Forest, which trains trees independently, AdaBoost trains weak learners sequentially, focusing on improving the performance on misclassified samples. Advanced variants like Gradient Boosting and XGBoost improve on AdaBoost by incorporating gradient-based optimization and better handling of data.
+* Unlike Random Forest, which trains trees independently, AdaBoost trains weak learners sequentially, focusing on improving the performance on misclassified samples. 
+* Advanced variants like Gradient Boosting and XGBoost improve on AdaBoost by incorporating gradient-based optimization and better handling of data.
