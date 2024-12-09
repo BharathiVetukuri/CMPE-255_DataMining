@@ -27,9 +27,9 @@ A Decision Tree is a supervised learning algorithm used for classification and r
 
 2. Select the Best Split:
 
-*Evaluate all possible splits for each feature.
+* Evaluate all possible splits for each feature.
 
-*Choose the feature and threshold that result in the maximum information gain or lowest impurity.
+* Choose the feature and threshold that result in the maximum information gain or lowest impurity.
 
 3. Partition the Data: Split the dataset into subsets based on the chosen feature and threshold.
 
@@ -41,7 +41,7 @@ A Decision Tree is a supervised learning algorithm used for classification and r
   
 * Maximum tree depth is reached.
   
-*The minimum number of samples per node is below a threshold.
+* The minimum number of samples per node is below a threshold.
 
 ### Advantages of Decision Trees
 
