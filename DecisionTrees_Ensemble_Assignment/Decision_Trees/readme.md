@@ -55,6 +55,6 @@ A Decision Tree is a supervised learning algorithm used for classification and r
 
 * Random Forest: Unlike a single decision tree, a random forest builds multiple trees (ensemble) and aggregates their predictions to reduce overfitting.
   
-*AdaBoost: Combines multiple weak decision trees sequentially, focusing on misclassified samples to improve accuracy.
+* AdaBoost: Combines multiple weak decision trees sequentially, focusing on misclassified samples to improve accuracy.
 
-*Gradient Boosting: Similar to AdaBoost but optimizes the splits using gradient descent methods.
+* Gradient Boosting: Similar to AdaBoost but optimizes the splits using gradient descent methods.
