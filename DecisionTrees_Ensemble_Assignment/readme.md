@@ -18,6 +18,8 @@ Youtube Link: https://youtu.be/6JbjLqGUn4Q
 
 Colab Link: https://colab.research.google.com/drive/1qAoK4L9c_Ec3s3ADOFArJfQ4eZXwkar4?usp=sharing 
 
+Youtube Link for AdaBoost and Decision Trees: https://youtu.be/WKIofynuKl4 
+
 
 ### 4. Decision Trees
 
