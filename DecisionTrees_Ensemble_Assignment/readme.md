@@ -6,6 +6,8 @@ Colab Link: https://colab.research.google.com/drive/1HV1bk8gau_B7Sd35-9gFgEZi_AB
 
 Yotube Link: https://youtu.be/6q3vu6qT6Qg
 
+[![GBM](https://img.youtube.com/vi/6q3vu6qT6Qg/0.jpg)](https://www.youtube.com/watch?v=6q3vu6qT6Qg)  
+
 
 ### 2. Random Forest
 
@@ -13,12 +15,16 @@ Colab Link: https://colab.research.google.com/drive/1Mufz0ttl9xVmlnS-bAOGm-6nR8Q
 
 Youtube Link: https://youtu.be/6JbjLqGUn4Q 
 
+[![Random Forest](https://img.youtube.com/vi/6JbjLqGUn4Q/0.jpg)](https://www.youtube.com/watch?v=6JbjLqGUn4Q)  
+
 
 ### 3. AdaBoost
 
 Colab Link: https://colab.research.google.com/drive/1qAoK4L9c_Ec3s3ADOFArJfQ4eZXwkar4?usp=sharing 
 
-Youtube Link for AdaBoost and Decision Trees: https://youtu.be/WKIofynuKl4 
+Youtube Link for AdaBoost and Decision Trees: https://youtu.be/AdaBoost 
+
+[![AdaBoost](https://img.youtube.com/vi/AdaBoost/0.jpg)](https://www.youtube.com/watch?v=AdaBoost)  
 
 
 ### 4. Decision Trees
@@ -40,5 +46,7 @@ Colab Link: https://colab.research.google.com/drive/1Com2Q_b3J0bbU710SjtNZjLiPaO
 
 Colab Link: https://colab.research.google.com/drive/1S-22_NQLjvSP5C2EOkl3poldv2EZ2pAP?usp=sharing 
 
-Youtube Video: https://youtu.be/uZpte2rbBnk 
+Youtube Link for GBM Classification Techniques, Gradient Boost Regression and Ranking Techniques: https://youtu.be/eFeyyOlath8 
+
+[![Gradient Boosting](https://img.youtube.com/vi/eFeyyOlath8/0.jpg)](https://www.youtube.com/watch?v=eFeyyOlath8)  
 
