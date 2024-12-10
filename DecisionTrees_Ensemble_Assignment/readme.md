@@ -11,6 +11,8 @@ Yotube Link: https://youtu.be/6q3vu6qT6Qg
 
 Colab Link: https://colab.research.google.com/drive/1Mufz0ttl9xVmlnS-bAOGm-6nR8QmGDdb?usp=sharing, https://colab.research.google.com/drive/1yCGrrrJ5PpHuTeD0IXdyNBaymIY4u8Py?usp=sharing 
 
+Youtube Link: https://youtu.be/6JbjLqGUn4Q 
+
 
 ### 3. AdaBoost
 
